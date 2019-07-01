@@ -1,0 +1,67 @@
+1451-Ícones - Portal Admin
+1477-Logout - Portal Admin
+1481-Sistema - Perfis de Acesso
+1487-Menu - Visualização
+1499-Reservas - Horário
+1751-Seleção - Acesso Compartilhado
+2441-Melhorar listagem - Categoria
+2445-Melhorar listagem - Parceiros
+2695-Cartões de Acesso - Tarefa 3
+2807-Revisão de termos usados nas plataformas
+2865-Avaliação sprint 8 - UX/UI
+3055-   Alteracao Front Admin - Cadastro/Listagem Parceiro Aba Cartoes
+3057-   API - criar novos endpoints
+3069	Sprint 10
+3081-Portal Manager - Telefone em criação de empresas
+3101-Refatoração telefone/usuário
+3169-   Relatório de Parceiros - Avaliação UX/UI
+3201-   Parâmetros de Acesso - Alterar tela - Avaliação de UX/UI
+3205-   API Mobile - Login
+3207-   API Mobile - Código
+3209-   API Mobile - Recuperar Senha
+3211-   API Mobile - Notificações
+3213-Corrigir o não preenchimento do documento no cadastro de parceiro
+3215-   API Mobile - Listagem Acessos Compartilhados
+3217-   API Mobile - Compartilhar Acesso
+3219-   API Mobile - Pontos Conectados 1
+3221-   API Mobile - Pontos Conectados 2
+3223-   API Mobile - Convites enviados
+3225-   API Mobile - Detalhe Convite Enviado
+3227-   API Mobile - Convites recebidos
+3229-   API Mobile - Detalhar Convite Recebido
+3231-   API Mobile - Cadastrar Usuário
+3233-   API Mobile - Perfil de Usuário
+3235-   Portal Admin - Cadastro de Parceiro e Liberação 1
+3237-   Portal Admin - Cadastro de Parceiro e liberação 2
+3239-   Portal Admin - Cadastro de Parceiro e liberação 3
+3241-   Portal Admin - Cadastro de Parceiro e Liberação 4
+3243-   Portal Admin - Buscar de Parceiros
+3245-   Portal Admin - Dasdhboard Principal
+3247-   Portal Admin - Dash Pessoa Movimento
+3249-   Portal Admin - Acessos Compartilhados
+3251-   Portal Admin - Enviar Comunicação
+3253-   Portal Admin - Relatório de Parceiros
+3255-   Portal Admin - Importação
+3257-   API Mobile - Perfil de usuário 2
+3265-   Portal Manager - Cadastro de Parceiro
+3267-   Portal Manager - Cadastro de Parceiro e de liberação
+3269-   Portal Manager - Cadastro de Parceiro 2
+3271-   Portal Manager - Cadastro de Parceiro e de Liberação 2
+3273-   Portal Manager - Busca de Parceiros
+3275-   Portal Manager - Cadastro de Empresa
+3277-   Portal Manager - Cadastro de Conta
+3279-   Portal Manager - Cadastro de Usuário
+3281-   Portal Manager - Dashboard Monitor Principal
+3283-   Portal Manager - Importação
+3285-   API Ar.check - Detalhe de Unidade
+3287-   API Ar.check - Buscar de Parceiros
+3289-   Portal Manager - Detalhes Parceiro
+3291-   API Ar.check - Cadastrar Parceiro
+3293-   Ajustar e-mail de recuperação de senha - Avaliação UX/UI
+3295-   Incluir rotina no Portal para criação e controle de lote de cartões - Avaliação de UX/UI
+	refatoração do modelo
+	corrigir erros de compilacao api mobile
+	corrigir erros de compilacao api manager
+	corrigir erros de compilacao api client
+	corrigir erros de compilacao api integracao
+	script de migração de dados
